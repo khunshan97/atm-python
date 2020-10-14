@@ -34,7 +34,7 @@ def last_account():
 
 
 def start():
-    print(last_account())
+    # print(last_account())
     print("Welcome! \n 1. Login \n 2. Create new account")
     choice = input("Enter your choice: ")
 
